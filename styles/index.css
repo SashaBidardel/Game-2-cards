@@ -1,0 +1,63 @@
+body{
+    margin: auto;
+    width: 40%;
+    
+   
+    
+}
+.card{
+    width:6em;
+    height: 6em;
+    margin-top: 2%;
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-bottom: 2%;
+   
+    
+    
+}
+.game{
+    margin-left: 5%;
+    margin-right: 5%;
+    display: flex;
+    justify-content: center;
+}
+header{
+    display: flex;
+    flex-direction: column;
+    
+}
+.banner{
+    display: flex;
+    justify-content: center;
+   
+}
+h1{
+    display: flex;
+    justify-content: center; 
+}
+.baile{
+    width: 40%;
+}
+.null{
+    display: none;
+}
+.align{
+    display: flex;
+    margin-left: 12%;
+    
+    
+}
+.cardo{
+    width: 6em;
+  height: 6em;
+   
+    margin-top: 2%;
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-bottom: 2%;
+   
+}
+.inicio{
+    display: flex;
+}
